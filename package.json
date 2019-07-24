@@ -1,0 +1,8 @@
+{
+  "scripts" :{
+    "test": "./node_modules/jest/bin/jest.js *.test.js"
+  },
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
